@@ -1,0 +1,282 @@
+[
+  {
+    "filename": "On the Dangers of Stochastic Parrots.pdf",
+    "writer_name": "Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell",
+    "year_of_publish": 2021,
+    "page_length": 14,
+    "key_concepts": [
+      "Stochastic Parrots (Bender et al.)",
+      "Documentation Debt (Bender et al.)"
+    ]
+  },
+  {
+    "filename": "Encoding_Decoding.pdf",
+    "writer_name": "Stuart Hall",
+    "year_of_publish": 1980,
+    "page_length": 11,
+    "key_concepts": [
+      "Encoding/Decoding Model (Hall)",
+      "Dominant-Hegemonic Position (Hall)"
+    ]
+  },
+  {
+    "filename": "The Ontology of the Photographic Image.pdf",
+    "writer_name": "André Bazin",
+    "year_of_publish": 1967,
+    "page_length": 8,
+    "key_concepts": [
+      "Mummy Complex (Bazin)",
+      "Objectivity in Time (Bazin)"
+    ]
+  },
+  {
+    "filename": "The Medium is the Message.pdf",
+    "writer_name": "Marshall McLuhan",
+    "year_of_publish": 1964,
+    "page_length": 11,
+    "key_concepts": [
+      "The Medium is the Message (McLuhan)",
+      "Extensions of Man (McLuhan)"
+    ]
+  },
+  {
+    "filename": "From Additive to Expressive Form.pdf",
+    "writer_name": "Janet H. Murray",
+    "year_of_publish": 2017,
+    "page_length": 34,
+    "key_concepts": [
+      "Additive Form (Murray)",
+      "Procedurality (Murray)"
+    ]
+  },
+  {
+    "filename": "Visual Pleasure and Narrative Cinema.pdf",
+    "writer_name": "Laura Mulvey",
+    "year_of_publish": 1975,
+    "page_length": 15,
+    "key_concepts": [
+      "The Male Gaze (Mulvey)",
+      "Visual Pleasure (Mulvey)"
+    ]
+  },
+  {
+    "filename": "The technology and the society.pdf",
+    "writer_name": "Raymond Williams",
+    "year_of_publish": 1974,
+    "page_length": 14,
+    "key_concepts": [
+      "Mobile Privatization (Williams)",
+      "Symptomatic Technology (Williams)"
+    ]
+  },
+  {
+    "filename": "Why Study the History of Digital Media and How.pdf",
+    "writer_name": "Gabriele Balbi",
+    "year_of_publish": 2018,
+    "page_length": 21,
+    "key_concepts": [
+      "Newness Ideology (Balbi)",
+      "Myth of the Digital (Balbi)"
+    ]
+  },
+  {
+    "filename": "The Myth of Total Cinema.pdf",
+    "writer_name": "André Bazin",
+    "year_of_publish": 1967,
+    "page_length": 6,
+    "key_concepts": [
+      "Myth of Total Cinema (Bazin)",
+      "Integral Realism (Bazin)"
+    ]
+  },
+  {
+    "filename": "Introduction Worship at the Altar of Convergence.pdf",
+    "writer_name": "Henry Jenkins",
+    "year_of_publish": 2006,
+    "page_length": 24,
+    "key_concepts": [
+      "Convergence Culture (Jenkins)",
+      "Black Box Fallacy (Jenkins)"
+    ]
+  },
+  {
+    "filename": "Introduction The Power of Algorithms.pdf",
+    "writer_name": "Safiya Umoja Noble",
+    "year_of_publish": 2018,
+    "page_length": 16,
+    "key_concepts": [
+      "Algorithmic Oppression (Noble)",
+      "Technological Redlining (Noble)"
+    ]
+  },
+  {
+    "filename": "Doing More with Less.pdf",
+    "writer_name": "Allyson Nadia Field",
+    "year_of_publish": 2025,
+    "page_length": 8,
+    "key_concepts": [
+      "Informed Speculation (Field)",
+      "Archival Absence (Field)"
+    ]
+  },
+  {
+    "filename": "Woman as Sign.pdf",
+    "writer_name": "Elizabeth Cowie",
+    "year_of_publish": 1978,
+    "page_length": 18,
+    "key_concepts": [
+      "Woman as Sign (Cowie)",
+      "Exchange of Women (Critique)"
+    ]
+  },
+  {
+    "filename": "Rhetoric of the Image.pdf",
+    "writer_name": "Roland Barthes",
+    "year_of_publish": 1977,
+    "page_length": 12,
+    "key_concepts": [
+      "Anchorage and Relay (Barthes)",
+      "The Linguistic Message (Barthes)"
+    ]
+  },
+  {
+    "filename": "Introduction Identity in the Age of the Internet.pdf",
+    "writer_name": "Sherry Turkle",
+    "year_of_publish": 1995,
+    "page_length": 18,
+    "key_concepts": [
+      "Life on the Screen (Turkle)",
+      "Culture of Simulation (Turkle)"
+    ]
+  },
+  {
+    "filename": "How to Read a Book v5.pdf",
+    "writer_name": "Paul N. Edwards",
+    "year_of_publish": 2017,
+    "page_length": 11,
+    "key_concepts": [
+      "Personal Text Markup Language (Edwards)",
+      "Hourglass Information Structure (Edwards)"
+    ]
+  },
+  {
+    "filename": "Introduction The Double Logic of Remediation.pdf",
+    "writer_name": "Jay David Bolter, Richard Grusin",
+    "year_of_publish": 1999,
+    "page_length": 15,
+    "key_concepts": [
+      "Remediation (Bolter & Grusin)",
+      "Double Logic of Remediation"
+    ]
+  },
+  {
+    "filename": "The Work of Art in the Age of Mechanical Reproduction.pdf",
+    "writer_name": "Walter Benjamin",
+    "year_of_publish": 1935,
+    "page_length": 26,
+    "key_concepts": [
+      "Aura (Benjamin)",
+      "Cult Value vs Exhibition Value (Benjamin)"
+    ]
+  },
+  {
+    "filename": "New Media and the Permanent Crisis of Aura.pdf",
+    "writer_name": "Jay David Bolter, Blair MacIntyre, Maribeth Gandy, Petra Schweitzer",
+    "year_of_publish": 2006,
+    "page_length": 19,
+    "key_concepts": [
+      "Permanent Crisis of Aura (Bolter et al.)",
+      "Pure Virtuality vs Mixed Reality"
+    ]
+  },
+  {
+    "filename": "Procedural Rhetoric.pdf",
+    "writer_name": "Ian Bogost",
+    "year_of_publish": 2007,
+    "page_length": 64,
+    "key_concepts": [
+      "Procedural Rhetoric (Bogost)",
+      "Persuasive Games (Bogost)"
+    ]
+  },
+  {
+    "filename": "Live Streaming as Media.pdf",
+    "writer_name": "T.L. Taylor",
+    "year_of_publish": 2018,
+    "page_length": 11,
+    "key_concepts": [
+      "Transformative Play (Taylor)",
+      "Live Streaming as Media"
+    ]
+  },
+  {
+    "filename": "Machinic Intimacies.pdf",
+    "writer_name": "Alla Ivanchikova",
+    "year_of_publish": 2016,
+    "page_length": 27,
+    "key_concepts": [
+      "Machinic Intimacy (Ivanchikova)",
+      "Technosexuality (Ivanchikova)"
+    ]
+  },
+  {
+    "filename": "Desire.pdf",
+    "writer_name": "Geoffrey Batchen",
+    "year_of_publish": 1997,
+    "page_length": 47,
+    "key_concepts": [
+      "Desire to Photograph (Batchen)",
+      "Proto-photography (Batchen)"
+    ]
+  },
+  {
+    "filename": "A Propaganda Model.pdf",
+    "writer_name": "Edward S. Herman, Noam Chomsky",
+    "year_of_publish": 1988,
+    "page_length": 35,
+    "key_concepts": [
+      "The Five Filters (Herman & Chomsky)",
+      "Propaganda Model (Herman & Chomsky)"
+    ]
+  },
+  {
+    "filename": "As We May Think.pdf",
+    "writer_name": "Vannevar Bush",
+    "year_of_publish": 1945,
+    "page_length": 14,
+    "key_concepts": [
+      "The Memex (Bush)",
+      "Associative Indexing (Bush)"
+    ]
+  },
+  {
+    "filename": "Beyond Radical Design.pdf",
+    "writer_name": "Anthony Dunne, Fiona Raby",
+    "year_of_publish": 2013,
+    "page_length": 9,
+    "key_concepts": [
+      "Speculative Design (Dunne & Raby)",
+      "Preferable Futures (Dunne & Raby)"
+    ]
+  },
+  {
+    "filename": "What Is New Media.pdf",
+    "writer_name": "Lev Manovich",
+    "year_of_publish": 2001,
+    "page_length": 43,
+    "key_concepts": [
+      "Numerical Representation (Manovich)",
+      "Cultural Transcoding (Manovich)"
+    ]
+  },
+  {
+    "filename": "Modernist Painting.pdf",
+    "writer_name": "Clement Greenberg",
+    "year_of_publish": 1960,
+    "page_length": 8,
+    "key_concepts": [
+      "Modernist Painting (Greenberg)",
+      "Flatness (Greenberg)"
+    ]
+  }
+]
