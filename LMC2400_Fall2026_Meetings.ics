@@ -1,0 +1,417 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Georgia Tech//LMC2400 Fall 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LMC 2400 Fall 2026
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20261101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260825@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260825T093000
+DTEND;TZID=America/New_York:20260825T104500
+SUMMARY:LMC 2400: [Intro] Syllabus / Shadow Syllabus
+DESCRIPTION:Type: Intro
+Topic: Syllabus / Shadow Syllabus
+Notes: Welcome
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260827@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260827T093000
+DTEND;TZID=America/New_York:20260827T104500
+SUMMARY:LMC 2400: [Intro] How to Read a Book/ Why Study History of Digital Media?/Read
+DESCRIPTION:Type: Intro
+Topic: How to Read a Book/ Why Study History of Digital Media?/Reading Material Overview
+Due / Important: Last day to register: Aug 28
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260901@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260901T093000
+DTEND;TZID=America/New_York:20260901T104500
+SUMMARY:LMC 2400: [Basic concept] Critical Reading / Encoding Decoding
+DESCRIPTION:Type: Basic concept
+Topic: Critical Reading / Encoding Decoding
+Due / Important: Sign up for Discussion Lead
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260903@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260903T093000
+DTEND;TZID=America/New_York:20260903T104500
+SUMMARY:LMC 2400: [Basic concept] Speculative everything/Doing More with Less / Informed Specu
+DESCRIPTION:Type: Basic concept
+Topic: Speculative everything/Doing More with Less / Informed Speculation as Method
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260908@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260908T093000
+DTEND;TZID=America/New_York:20260908T104500
+SUMMARY:LMC 2400: [Legacy media] Work of Art in the Age of Mechanical Reproduction
+DESCRIPTION:Type: Legacy media
+Topic: Work of Art in the Age of Mechanical Reproduction
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260910@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260910T093000
+DTEND;TZID=America/New_York:20260910T104500
+SUMMARY:LMC 2400: [Legacy media] Modernist Painting/Rhetoric of Image
+DESCRIPTION:Type: Legacy media
+Topic: Modernist Painting/Rhetoric of Image
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260915@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260915T093000
+DTEND;TZID=America/New_York:20260915T104500
+SUMMARY:LMC 2400: [Legacy media] On Photography- introduction
+DESCRIPTION:Type: Legacy media
+Topic: On Photography- introduction
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260917@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260917T093000
+DTEND;TZID=America/New_York:20260917T104500
+SUMMARY:LMC 2400: [Legacy media] The ontology of photographic image/ The myth of total cinema
+DESCRIPTION:Type: Legacy media
+Topic: The ontology of photographic image/ The myth of total cinema
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260922@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260922T093000
+DTEND;TZID=America/New_York:20260922T104500
+SUMMARY:LMC 2400: [Legacy media] Woman as sign/ The visual pleasure and narrative cinema.
+DESCRIPTION:Type: Legacy media
+Topic: Woman as sign/ The visual pleasure and narrative cinema.
+Due / Important: Multiple Due Dates
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260924@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260924T093000
+DTEND;TZID=America/New_York:20260924T104500
+SUMMARY:LMC 2400: [Legacy media] Machinic Intimacies and Mechanical Brides: Collectivity betw
+DESCRIPTION:Type: Legacy media
+Topic: Machinic Intimacies and Mechanical Brides: Collectivity between Prosthesis and Surrogacy in Jonathan Mostow's Surrogates and Spike Jonze's Her
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260924@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260924T093000
+DTEND;TZID=America/New_York:20260924T104500
+SUMMARY:LMC 2400: [Quiz] Quiz 1
+DESCRIPTION:Type: Quiz
+Topic: Quiz 1
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20260929@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20260929T093000
+DTEND;TZID=America/New_York:20260929T104500
+SUMMARY:LMC 2400: [Assignment] Creative Reflection Presentations
+DESCRIPTION:Type: Assignment
+Topic: Creative Reflection Presentations
+Notes: Online
+Due / Important: Multiple Due Dates
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261001@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261001T093000
+DTEND;TZID=America/New_York:20261001T104500
+SUMMARY:LMC 2400: [Assignment] Creative Reflection Presentations
+DESCRIPTION:Type: Assignment
+Topic: Creative Reflection Presentations
+Notes: Online
+Due / Important: Multiple Due Dates
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261008@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261008T093000
+DTEND;TZID=America/New_York:20261008T104500
+SUMMARY:LMC 2400: [Legacy media] The technology and the society/ Manufacturing Consent: The P
+DESCRIPTION:Type: Legacy media
+Topic: The technology and the society/ Manufacturing Consent: The Political Economy of the Mass Media / Chapter: A Propaganda Model
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261013@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261013T093000
+DTEND;TZID=America/New_York:20261013T104500
+SUMMARY:LMC 2400: [Transformation] Medium is the message/Culture of Technology
+DESCRIPTION:Type: Transformation
+Topic: Medium is the message/Culture of Technology
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261015@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261015T093000
+DTEND;TZID=America/New_York:20261015T104500
+SUMMARY:LMC 2400: [Transformation] Remediation: Understanding new media. / Chapter: Introductio
+DESCRIPTION:Type: Transformation
+Topic: Remediation: Understanding new media. / Chapter: Introduction- The double logic of remediation./New Media and the Permanent Crisis of Aura/
+Due / Important: First Half Term ends: Oct 16
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261020@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261020T093000
+DTEND;TZID=America/New_York:20261020T104500
+SUMMARY:LMC 2400: [Transformation] Hamlet on the Holodeck- the future of Narrative in cyberspac
+DESCRIPTION:Type: Transformation
+Topic: Hamlet on the Holodeck- the future of Narrative in cyberspace / Introduction & Chapter: From additive to expressive form
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261020@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261020T093000
+DTEND;TZID=America/New_York:20261020T104500
+SUMMARY:LMC 2400: [Quiz] Quiz 2
+DESCRIPTION:Type: Quiz
+Topic: Quiz 2
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261022@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261022T093000
+DTEND;TZID=America/New_York:20261022T104500
+SUMMARY:LMC 2400: [Assignment] Decoding Art Presentations
+DESCRIPTION:Type: Assignment
+Topic: Decoding Art Presentations
+Notes: Online
+Due / Important: Multiple Due Dates
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261027@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261027T093000
+DTEND;TZID=America/New_York:20261027T104500
+SUMMARY:LMC 2400: [Assignment] Decoding Art Presentations
+DESCRIPTION:Type: Assignment
+Topic: Decoding Art Presentations
+Notes: Online
+Due / Important: Multiple Due Dates
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261029@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261029T093000
+DTEND;TZID=America/New_York:20261029T104500
+SUMMARY:LMC 2400: [Assignment] Decoding Art Presentations
+DESCRIPTION:Type: Assignment
+Topic: Decoding Art Presentations
+Notes: Online
+Due / Important: Multiple Due Dates; Withdrawal deadline: Oct 31
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261103@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261103T093000
+DTEND;TZID=America/New_York:20261103T104500
+SUMMARY:LMC 2400: [New media] As we may think/ The language of new media.
+DESCRIPTION:Type: New media
+Topic: As we may think/ The language of new media.
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261105@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261105T093000
+DTEND;TZID=America/New_York:20261105T104500
+SUMMARY:LMC 2400: [New media] Life on the screen- identity in the age of the internet / Ch
+DESCRIPTION:Type: New media
+Topic: Life on the screen- identity in the age of the internet / Chapter: Introduction
+Due / Important: Sign up for Final Paper Groups
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261110@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261110T093000
+DTEND;TZID=America/New_York:20261110T104500
+SUMMARY:LMC 2400: [New media] Watch Me Play: Twitch and the Rise of Game Live Streaming / 
+DESCRIPTION:Type: New media
+Topic: Watch Me Play: Twitch and the Rise of Game Live Streaming / Chapter: Live Streaming as Media
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261112@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261112T093000
+DTEND;TZID=America/New_York:20261112T104500
+SUMMARY:LMC 2400: [New media] Convergence Culture- where old and new media collide / Chapt
+DESCRIPTION:Type: New media
+Topic: Convergence Culture- where old and new media collide / Chapter: Introduction
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261117@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261117T093000
+DTEND;TZID=America/New_York:20261117T104500
+SUMMARY:LMC 2400: [New media] Homo Ludens- a study of the play-element in culture / Chapte
+DESCRIPTION:Type: New media
+Topic: Homo Ludens- a study of the play-element in culture / Chapter: Nature and Significance of Play as a Cultural Phenomenon/ Persuasive Game- the expressive power of video games Chapter: Procedural rhetoric
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261119@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261119T093000
+DTEND;TZID=America/New_York:20261119T104500
+SUMMARY:LMC 2400: [New media] Algorithms of Oppression: How Search Engines Reinforce Racis
+DESCRIPTION:Type: New media
+Topic: Algorithms of Oppression: How Search Engines Reinforce Racism / Chapter: Introduction
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261124@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261124T093000
+DTEND;TZID=America/New_York:20261124T104500
+SUMMARY:LMC 2400: [New media] On the Dangers of Stochastic Parrots: Can Language Models Be
+DESCRIPTION:Type: New media
+Topic: On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261124@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261124T093000
+DTEND;TZID=America/New_York:20261124T104500
+SUMMARY:LMC 2400: [Quiz] Quiz 3
+DESCRIPTION:Type: Quiz
+Topic: Quiz 3
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261201@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261201T093000
+DTEND;TZID=America/New_York:20261201T104500
+SUMMARY:LMC 2400: [Assignment] Final Paper Studio
+DESCRIPTION:Type: Assignment
+Topic: Final Paper Studio
+Notes: Online
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261203@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261203T093000
+DTEND;TZID=America/New_York:20261203T104500
+SUMMARY:LMC 2400: [Assignment] Final Paper Studio
+DESCRIPTION:Type: Assignment
+Topic: Final Paper Studio
+Notes: Online
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261208@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261208T093000
+DTEND;TZID=America/New_York:20261208T104500
+SUMMARY:LMC 2400: [Assignment] Final Paper Studio
+DESCRIPTION:Type: Assignment
+Topic: Final Paper Studio
+Notes: Online — Last Day of Classes
+Due / Important: Final Paper Due: Dec 16
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261216@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261216T093000
+DTEND;TZID=America/New_York:20261216T104500
+SUMMARY:LMC 2400: Final Paper Due
+DESCRIPTION:Topic: Final Paper Due
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lmc2400-fall2026-20261222@gatech.edu
+DTSTAMP:20260819T170000Z
+DTSTART;TZID=America/New_York:20261222T093000
+DTEND;TZID=America/New_York:20261222T104500
+SUMMARY:LMC 2400: Final Grades Available Online
+DESCRIPTION:Topic: Final Grades Available Online
+LOCATION:Georgia Tech Campus / Online
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
